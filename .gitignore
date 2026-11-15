@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.sql
+*.sqlite
+*.sqlite3
+migration-inventory.json
+node_modules/
+vendor/
+__pycache__/
+.DS_Store
